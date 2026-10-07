@@ -6,7 +6,16 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 03:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:00:02 GMT</lastBuildDate>
+    <item>
+      <title>[CW40] The price of a yes: China asks for Copper to clear Anglo-Teck</title>
+      <link>https://www.criticalmineralsjournal.com/p/cw40-china-asks-anglo-teck-for-copper-concentrate-merger-approval-supply-remedy</link>
+      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw40-china-asks-anglo-teck-for-copper-concentrate-merger-approval-supply-remedy</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Brazil, Ghana and Panama sat between a deal and a tonne this week. China asked for the tonnes.</description>
+      <dc:creator>Critical Minerals Journal</dc:creator>
+      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4e90940-b1fb-43d4-86ea-0ceeca31c1d5/CW40_CriticalMineralsJournal_Cover.png?t=1791339462" />
+    </item>
     <item>
       <title>[CW39] Trump-Xi outcome: China moved its deadline, but America's own rule moves first</title>
       <link>https://www.criticalmineralsjournal.com/p/cw39-trump-xi-summit-outcome-china-moved-its-deadline-but-america-s-own-rule-moves-first</link>
@@ -114,18 +123,6 @@
       <category>geopolitics</category>
       <category>rare earth elements (rees)</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/62079496-d20e-4c7c-9c6e-7e475b98d2cd/CW31_Critical_Minerals_Journal_Cover__1_.png?t=1786517905" />
-    </item>
-    <item>
-      <title>[CW30] Money is the passport: EO 14415 sorts rare earth producers by sponsor</title>
-      <link>https://www.criticalmineralsjournal.com/p/cw30-money-is-the-passport-eo-14415-sorts-rare-earth-producers-by-sponsor</link>
-      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw30-money-is-the-passport-eo-14415-sorts-rare-earth-producers-by-sponsor</guid>
-      <pubDate>Wed, 29 Jul 2026 13:30:00 GMT</pubDate>
-      <description>A federal grant, not a mine, now decides which project clears the January 1 deadline</description>
-      <dc:creator>Critical Minerals Journal</dc:creator>
-      <category>critical minerals</category>
-      <category>geopolitics</category>
-      <category>rare earth elements (rees)</category>
-      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/94018524-a31b-4cb5-a460-97dd1de00dbe/CW30_CriticalMineralsJournal_cover__1___1_.png?t=1785930522" />
     </item>
   </channel>
 </rss>
