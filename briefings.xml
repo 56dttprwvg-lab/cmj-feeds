@@ -6,7 +6,19 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 15 Oct 2026 13:30:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:00:02 GMT</lastBuildDate>
+    <item>
+      <title>[CW42] Binding offtakes secure the buyer, not the destination</title>
+      <link>https://www.criticalmineralsjournal.com/p/cw42-binding-offtakes-secure-the-buyer-not-the-destination</link>
+      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw42-binding-offtakes-secure-the-buyer-not-the-destination</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
+      <description>The two biggest binding supply contracts we found this week went to commodity traders, and neither one says where the material will end up.</description>
+      <dc:creator>Critical Minerals Journal</dc:creator>
+      <category>lithium</category>
+      <category>geopolitics</category>
+      <category>rare earth elements (rees)</category>
+      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ce82b641-c365-4b71-bfb2-4d3e08ee9c04/CW42_Critical_Minerals_Journal_Cover__1_.png?t=1792548800" />
+    </item>
     <item>
       <title>[CW41] Europe announced a number on cars and got a verb on magnets</title>
       <link>https://www.criticalmineralsjournal.com/p/cw41-eu-china-rare-earth-licences-no-volume-sulfuric-acid-export-halt-copper-smelters</link>
@@ -112,18 +124,6 @@
       <category>geopolitics</category>
       <category>rare earth elements (rees)</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d8ab97d3-eeeb-4ffc-bb8f-7bd7ae9aa341/CW33_CriticalMineralsJournal_Cover.png.png?t=1787754598" />
-    </item>
-    <item>
-      <title>[CW32] The Power Couple, Fifteen Months Later: Two Legs, and a Tripwire</title>
-      <link>https://www.criticalmineralsjournal.com/p/cw32-power-couple-yttrium-gas-turbine-uranium-enrichment</link>
-      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw32-power-couple-yttrium-gas-turbine-uranium-enrichment</guid>
-      <pubDate>Wed, 12 Aug 2026 13:10:00 GMT</pubDate>
-      <description>Uranium and magnets still carry the trade in bulk. Yttrium just has to be missing.</description>
-      <dc:creator>Critical Minerals Journal</dc:creator>
-      <category>uranium</category>
-      <category>critical minerals</category>
-      <category>rare earth elements (rees)</category>
-      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8ffe3fca-8067-45ed-bce4-8ca1d4431c56/CW32_CriticalMineralsJournal_Cover_BW.png.png?t=1787536002" />
     </item>
   </channel>
 </rss>
