@@ -6,7 +6,19 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 02:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:00:02 GMT</lastBuildDate>
+    <item>
+      <title>[CW43] Japan cannot buy, GM will not: Rare Earth risk moved to the buyer</title>
+      <link>https://www.criticalmineralsjournal.com/p/cw43-china-yttrium-exports-japan-rare-earth-risk-moved-to-the-buyer</link>
+      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw43-china-yttrium-exports-japan-rare-earth-risk-moved-to-the-buyer</guid>
+      <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
+      <description>One oxide now has two prices, and a US magnet plant's anchor buyer walked.</description>
+      <dc:creator>Critical Minerals Journal</dc:creator>
+      <category>critical minerals</category>
+      <category>geopolitics</category>
+      <category>rare earth elements (rees)</category>
+      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ee3fe688-65bf-48e8-81af-ec5d545773ab/CW43_CriticalMineralsJournal_Cover__1_.png?t=1793150520" />
+    </item>
     <item>
       <title>[CW42] Binding offtakes secure the buyer, not the destination</title>
       <link>https://www.criticalmineralsjournal.com/p/cw42-binding-offtakes-secure-the-buyer-not-the-destination</link>
@@ -111,19 +123,6 @@
       <category>critical minerals</category>
       <category>rare earth elements (rees)</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8982a891-43e6-495f-8273-4b53b44da06c/CW34_CriticalMineralsJournal_Cover.png.png?t=1788318374" />
-    </item>
-    <item>
-      <title>[CW33] The calendar became the commodity</title>
-      <link>https://www.criticalmineralsjournal.com/p/cw33-the-calendar-became-the-commodity-copper-squeeze</link>
-      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw33-the-calendar-became-the-commodity-copper-squeeze</guid>
-      <pubDate>Wed, 19 Aug 2026 13:00:00 GMT</pubDate>
-      <description>Erbium, copper and lithium all repriced this week, and none of them repriced on supply.</description>
-      <dc:creator>Critical Minerals Journal</dc:creator>
-      <category>lithium</category>
-      <category>copper</category>
-      <category>geopolitics</category>
-      <category>rare earth elements (rees)</category>
-      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d8ab97d3-eeeb-4ffc-bb8f-7bd7ae9aa341/CW33_CriticalMineralsJournal_Cover.png.png?t=1787754598" />
     </item>
   </channel>
 </rss>
