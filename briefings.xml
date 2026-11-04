@@ -6,7 +6,19 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 09:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:00:02 GMT</lastBuildDate>
+    <item>
+      <title>[CW44] Who is paying for Lynas' price floors?</title>
+      <link>https://www.criticalmineralsjournal.com/p/cw44-who-is-paying-for-lynas-price-floors-rare-earth-premium</link>
+      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw44-who-is-paying-for-lynas-price-floors-rare-earth-premium</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+      <description>More than half of Lynas' output now sells under a floor the August spot sat below. Who pays the gap decides where the Rare Earth premium went.</description>
+      <dc:creator>Critical Minerals Journal</dc:creator>
+      <category>copper</category>
+      <category>critical minerals</category>
+      <category>rare earth elements (rees)</category>
+      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6312edbb-80d9-4100-9632-92781349a23f/CW44_CriticalMineralsJournal_Cover.png.png?t=1793757512" />
+    </item>
     <item>
       <title>[CW43] Japan cannot buy, GM will not: Rare Earth risk moved to the buyer</title>
       <link>https://www.criticalmineralsjournal.com/p/cw43-china-yttrium-exports-japan-rare-earth-risk-moved-to-the-buyer</link>
@@ -111,18 +123,6 @@
       <category>copper</category>
       <category>geopolitics</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2bd8e9b2-e6b6-47b8-8cfe-2ac4b3f69a8d/CW25_Critical_Minerals_Journal_Cover__1_.png?t=1788930864" />
-    </item>
-    <item>
-      <title>[CW34] Copper never moved, it just changed its status + Rare Earths' market updates</title>
-      <link>https://www.criticalmineralsjournal.com/p/cw34-copper-squeeze-the-metal-never-moved</link>
-      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw34-copper-squeeze-the-metal-never-moved</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
-      <description>A five-year copper spread died on a warrant, and Japan's terbium continues at zero.</description>
-      <dc:creator>Critical Minerals Journal</dc:creator>
-      <category>copper</category>
-      <category>critical minerals</category>
-      <category>rare earth elements (rees)</category>
-      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8982a891-43e6-495f-8273-4b53b44da06c/CW34_CriticalMineralsJournal_Cover.png.png?t=1788318374" />
     </item>
   </channel>
 </rss>
