@@ -6,7 +6,19 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 03:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:00:02 GMT</lastBuildDate>
+    <item>
+      <title>[CW45] Rare earth price floors analysis + the battle for controlling the resources and technology</title>
+      <link>https://www.criticalmineralsjournal.com/p/cw45-rare-earth-price-floors-viridis-solvay-brazil-screening</link>
+      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw45-rare-earth-price-floors-viridis-solvay-brazil-screening</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+      <description>China and the United States moved their deadlines to January 10 and set no volume. In the same week a European buyer wrote a rare earth price floor into a contract and kept its level confidential.</description>
+      <dc:creator>Critical Minerals Journal</dc:creator>
+      <category>critical minerals</category>
+      <category>geopolitics</category>
+      <category>rare earth elements (rees)</category>
+      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/076abec5-6cfe-44a2-9980-66cc3e09496c/CW45_CriticalMineralsJournal_Cover.png?t=1794363515" />
+    </item>
     <item>
       <title>[CW44] Who is paying for Lynas' price floors?</title>
       <link>https://www.criticalmineralsjournal.com/p/cw44-who-is-paying-for-lynas-price-floors-rare-earth-premium</link>
@@ -111,18 +123,6 @@
       <category>uranium</category>
       <category>rare earth elements (rees)</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/262f4c2c-8029-4cc0-b82b-56a84b6ce6e2/CW36_Critical_Minerals_Journal_Cover.png.png?t=1789532149" />
-    </item>
-    <item>
-      <title>[CW35] The U.S.-Canada trade ‘fight’ and how this materially impacts your exposure</title>
-      <link>https://www.criticalmineralsjournal.com/p/cw35-the-us-canada-trade-fight-and-how-this-materially-impacts-your-exposure</link>
-      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw35-the-us-canada-trade-fight-and-how-this-materially-impacts-your-exposure</guid>
-      <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
-      <description>The U.S. qualified three more projects this week, then taxed the ally that refines its uranium.</description>
-      <dc:creator>Critical Minerals Journal</dc:creator>
-      <category>lithium</category>
-      <category>copper</category>
-      <category>geopolitics</category>
-      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2bd8e9b2-e6b6-47b8-8cfe-2ac4b3f69a8d/CW25_Critical_Minerals_Journal_Cover__1_.png?t=1788930864" />
     </item>
   </channel>
 </rss>
