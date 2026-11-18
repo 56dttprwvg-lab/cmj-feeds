@@ -6,7 +6,16 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 09:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:01 GMT</lastBuildDate>
+    <item>
+      <title>[CW46] What to expect from Trump and Xi in Shenzhen + Serra Verde's contract decoded</title>
+      <link>https://www.criticalmineralsjournal.com/p/cw46-trump-xi-shenzhen-rare-earths-serra-verde-offtake</link>
+      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw46-trump-xi-shenzhen-rare-earths-serra-verde-offtake</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Trump and Xi meet this week with rare earths on the US list. The week's filings show that the new heavy rare earth tonnes outside China were sold before they were separated, and that China earns more from rare earths while shipping fewer of the heavy oxides it names.</description>
+      <dc:creator>Critical Minerals Journal</dc:creator>
+      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1561b91f-202b-4a4a-85a9-f8953b9570a0/CW46_CriticalMineralsJournal_Cover.png?t=1794967989" />
+    </item>
     <item>
       <title>[CW45] Rare earth price floors analysis + the battle for controlling the resources and technology</title>
       <link>https://www.criticalmineralsjournal.com/p/cw45-rare-earth-price-floors-viridis-solvay-brazil-screening</link>
@@ -111,18 +120,6 @@
       <category>critical minerals</category>
       <category>rare earth elements (rees)</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/eee7539d-48e6-499a-8a88-355cfa3fefb5/CW37_Critical_Minerals_Journal_Cover.png?t=1790128418" />
-    </item>
-    <item>
-      <title>[CW36] The licenses cleared, but the cargo didn’t + Misalignment of government priorities</title>
-      <link>https://www.criticalmineralsjournal.com/p/cw36-china-rare-earth-export-licenses-shipments-halted-and-its-real-strategy-to-restrict-exports</link>
-      <guid isPermaLink="true">https://www.criticalmineralsjournal.com/p/cw36-china-rare-earth-export-licenses-shipments-halted-and-its-real-strategy-to-restrict-exports</guid>
-      <pubDate>Wed, 09 Sep 2026 09:00:00 GMT</pubDate>
-      <description>Three times this week, the thing that stopped a tonne sat one layer below the document the market is paying for.</description>
-      <dc:creator>Critical Minerals Journal</dc:creator>
-      <category>lithium</category>
-      <category>uranium</category>
-      <category>rare earth elements (rees)</category>
-      <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/262f4c2c-8029-4cc0-b82b-56a84b6ce6e2/CW36_Critical_Minerals_Journal_Cover.png.png?t=1789532149" />
     </item>
   </channel>
 </rss>
