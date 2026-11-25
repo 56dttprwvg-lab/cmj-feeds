@@ -6,7 +6,7 @@
     <description>The Critical Minerals Journal (CMJ) is a strategic intelligence briefing on critical minerals, with weekly in-depth overviews of rare earths, uranium, copper, lithium and others. Independent. Opinionated. Evidence-based.</description>
     <language>en</language>
     <atom:link href="https://56dttprwvg-lab.github.io/cmj-feeds/briefings.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 09:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:30:03 GMT</lastBuildDate>
     <item>
       <title>[CW47] Copper is in the wrong country + China's Dysprosium went to Korea, not the US</title>
       <link>https://www.criticalmineralsjournal.com/p/cw47-copper-is-in-the-wrong-country-china-dysprosium-went-to-korea-not-the-us</link>
@@ -14,6 +14,9 @@
       <pubDate>Wed, 25 Nov 2026 09:00:00 GMT</pubDate>
       <description>Copper fell 15% in three weeks while China paid a record premium to import it. Much of the metal is sitting in US warehouses, waiting on a tariff nobody has decided. And China's largest Dysprosium month in our customs series went to South Korea, with nothing for the United States.</description>
       <dc:creator>Critical Minerals Journal</dc:creator>
+      <category>copper</category>
+      <category>critical minerals</category>
+      <category>rare earth elements (rees)</category>
       <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3d5be6c9-c2c3-4a3b-8971-f980b20dab3d/CW47_CriticalMineralsJournal_Cover.png?t=1795570460" />
     </item>
     <item>
